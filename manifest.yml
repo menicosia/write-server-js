@@ -1,0 +1,5 @@
+---
+applications:
+- name: write-server-js
+  command: node write-files.js
+
